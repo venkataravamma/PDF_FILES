@@ -1,0 +1,100 @@
+Q1. Can we define static variables inside the static method or not? 
+Q2. In project when we will instance & static varaibles give the scenario? 
+Q3. When we will use for vs. for-each? 
+Q4. Define JDK vs. JRE vs. JVM?
+Q5. How many parts of java?
+Q6. What is the purpose of methods? 
+Q7. Define class vs.Object?
+Q8. Define and(&),or(|)?
+Q9. Define the constructor?
+Q10. define break vs. continue? 
+Q11.  Define the package in java? 
+Q12. What is the difference between bitwise & logical operator? 
+Q13. What are the entry controlled loop & exit controll loop? 
+Q14. When we will get StackOverflowError?
+Q15. Explain instance & static blocks? What is the purpose of blocks? 
+Q16.  What are the different ways to load the .class file into memory?
+Q17. How to call the constructor in java?Is it one constructor can call multiple constructors? 
+Q18. What is method recursion?
+Q19. What are the Different ways to call the static members in java?
+Q20. When we will use switch & else-if statements in Application?
+Q21. When we will use for vs. while loops in Application?
+Q22. Can we access the other packages classes without import statements?
+Q23. What is the difference between the normal import & static import?
+Q24. What are the modifiers applicable to constructors?
+Q25. Explain System.out.println()?
+Q26. Can we access sub-packages data when we import main package with*?
+Q27. What are the Permission/Scoping modifiers in java?
+Q28. Define inheritance? how many types inheritance in java?
+Q29. Explain about Object class in java? 
+Q30. Define the Polymorphism? How many types of Polymorphisms in java?
+Q31. What are the Different types of overloading in java? What is the advantage? 
+Q32. What is method Overriding? what is the advantage?
+Q33. What are the rules to fallow while overriding the method?
+Q34. What is Co-variant return type in java?
+Q35. What is Method overriding & method hiding in java?
+Q36. What is the advantage of parent class reference hilding the Child class object? or What is runtime polymorphism? 
+Q37. Explain about final modifier/prevention modifier in java?
+Q38. Define abstract methods & normal methods in java?
+Q39. Explain normal classes & abstract classes in java? 
+Q40. what is the abstraction concept in java? What is the advantage of abstraction?
+Q41. Explain about interfaces in java? 
+Q42. What is the difference between interfaces & abstract classes & normal classes & client code?
+Q43. How to clone the objects in java? What is the advantage?
+Q44. What the new features about interfaces in java?
+Q45. Explain about functional interfaces in java? 
+Q46. What is the meaning of Automatic garbage collection?
+Q47. What are the Different ways to call the Garbage Collector?
+Q48. What are the Different ways to make the object un-referenced?
+Q49. Explain Encapsulation mechanism in java?
+Q50. What are the different ways to initialize the data in java explain?
+Q51. Define type conversion? what are the different types of type conversions in java?  
+Q52. Why method signature of main() method is always public static void main(String[] args) ?
+Q53. Though interface is a pure abstract class then why interfaces are needed 
+Q54. Define the exception? What is the main objective of exception handling?
+Q55. what are the types of exceptions in java?
+Q56. What are the differnet ways to handle the exceptions in java? 
+Q57. What are the possible ways to handle the multiple exceptions in java?
+Q58. What is the purpose of try-with resources concept?
+Q59. What is the purpose of finally block?
+Q60. What is the purpose of throw keyword? How to handle the userdefined exceptions in java? 
+Q61.What are the difference ways to create String object?
+Q62. what is the difference == operator & equals() method?
+Q63. What is the difference between String vs. StringBuffer?
+Q64. What is the difference between equals() vs. compareTo()?
+Q65. What is the difference between StringBuffer & StringBuilder?
+Q66. What are the advanatges of Wrapper classes?
+Q67. Define Autoboxing & Auto-unboxing?
+Q68. What is the purpose of enum?
+Q69. What is the purpose of Annotation?
+Q70. How to perform read & write operations on text files & images?
+Q71. What are the difference between normal Streams & buffered streams?
+Q72. How to create & remove the files & directories in java?
+Q73. what are the advantages of nested classes in java?
+Q74. Define lambda expression in java?
+Q75. What is method reference concept in java? 
+Q76. What is Reflection mechanism in java?
+Q77. What are the main components of JVM?
+Q78. Define the Thread? What are the advantages of multithreading?
+Q79. What are the different ways to create a thread? Explain start() run() methods? Q81. Explain Daemon & non-Daemon threads in java?
+Q80. What’s the difference between class lock and object lock?
+Q81. Explain Daemon & non-Daemon threads in java?
+Q82. Explain thread names & priority in java?
+Q83. Explain sleep() vs. join() vs. wait()? 
+Q84. What is the purpose of Assertions in java?
+Q85. Define the array? what are the advantages of arrays?
+Q86. What is the main objective of Collection framework? What are the parts in Collections f/w?
+Q87. What are the difference between Collections & Arrays?
+Q88. What are the difference between List & Set?
+Q89. How to add one collection data into another?
+Q90. What are the Differences between ArrayList & LinkedList?
+Q91. What are the Differeent ways to read the data from collection classes?
+Q92. What is the purpose of cursor? Explain the cursors in java?
+Q93. What are the conditions we need to fallow while sorting Collection data?
+Q94. what is the purpose of serialization & Desrialization process? How to prevent serialization?
+Q95. What is Type Earser in java?
+Q96. What is the Difference between Comparable vs. Comparator?
+Q97. In application when we will use Map classes?
+Q98. What is the purpose of streams API in java?
+Q99. How to convert Arrays to Collections & Collections to Arrays?
+Q100. What is the purpose of WildCard symbol(?) in Generics?

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div id = "div1"> This is the div element.
+        <p id = "p1"> This is the paragraph element inside the div element.
+        <h3 id = "h"> This is the child of the paragraph element.
+        <p id = "p2"> This is the child of heading element of the paragraph element. </p>
+        </h3>
+        </p>
+        </div>
+        
+        <script>
+        
+        var val1 = document.getElementById("p2");
+        
+        var o1 = val1.closest("p");
+        
+        var o2 = val1.closest("h3");
+        
+        var o3 = val1.closest("div");
+        
+        console.log(o1);
+        console.log(o2);
+        console.log(o3);
+        
+        
+        </script>
+</body>
+</html>

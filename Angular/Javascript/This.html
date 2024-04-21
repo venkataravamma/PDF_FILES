@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var website="javatpoint";
+        function web(){
+            document.writeln(website+" referring to global  window object");
+        }
+        var address={
+            company:"Capgemeni",
+            city:"Noida",
+            state:"Hyderabad",
+            fullAddress:function(){
+                return this.company+" "+this.city+" "+this.state;
+            }
+
+        };
+        var fetch=address.fullAddress();
+        document.writeln(fetch);
+        web();
+    </script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+    var emp_address={
+    fullAddress : function(){
+        return this.company+" "+this.city+" "+this.state;
+    } 
+    };
+    var address ={
+        company:"VVR",
+        city:"Guntur",
+        state:"AP"
+    }
+    document.writeln(emp_address.fullAddress.call(address));
+    document.writeln(emp_address.fullAddress.apply(address));
+    </script>
+</body>
+</html>

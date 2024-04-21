@@ -1,0 +1,25 @@
+April 4 to may 4 :
+Timings:  
+  mrng:- 6 to 8
+  evning: 8 to 11
+
+Evening -duration 23 days
+========
+1.Javascript  -06-04 & 07/04
+2.Spring      -09/04 & 10/04
+3.Spring Data Jpa - 11/12/13
+4.Spring Boot   -14/04 & 15/04
+5.Design patterns -03/04/05
+6.Java      - 28/29/01
+7.Angular   - 16/17/18/19/20/21/22
+8.Typescript Iq 
+
+Morning -7 days
+==========
+1.Jpa		 -04/04
+2.Hibernate  -05/04
+3.Agile      -08/04
+4.Docker     -23 &24
+5.Kubernate  -25/26/27
+6.Kafka      -30/02 may
+

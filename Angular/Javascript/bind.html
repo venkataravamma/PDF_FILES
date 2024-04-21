@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var lang="Java";
+        function lang_name(call){
+            call();
+        }
+        var obj={
+            lang:"Java_FS",
+            language:function(){
+                document.writeln(this.lang+" is a popular programming language");
+            }
+        };
+        lang_name(obj.language);
+        lang_name(obj.language.bind(obj));
+        
+    </script>
+</body>
+</html>

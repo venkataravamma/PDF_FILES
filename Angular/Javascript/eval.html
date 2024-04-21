@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //eval with operation
+        var a=10,b=20,c=38,sum,mul,sub,div,res;
+        sum=eval("a+b+c");
+        mul=eval("a*b*c");
+        sub=eval("a-b-c");
+        div =eval("a/b");
+        document.write("sum : "+sum+" mul : "+mul+" sub : "+sub+" div : "+div);
+
+        //eval with fun()
+        function  cal(a,b){
+            return a-b;
+
+        }
+        eval("res=cal(10,98)");
+        document.write("<br> <br> res :"+res);
+        // eval with if-else
+        var x=0;
+        var str="if(x==0){'sunday'} else 'monday'";
+        document.write("<br> <br>The output is:"+eval(str));
+
+        //eval to convert str to obj
+        var str1='({"fname":"venky","lname":"v"})';
+        var obj=eval(str1);
+        document.write("<br> <br> after converting str to obj fname :" +obj.fname+" obj lname: "+obj.lname);
+    </script>
+</body>
+</html>
